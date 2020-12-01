@@ -1,0 +1,12 @@
+.idCardContainer {
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    margin: 2vw
+}
+.idCardImage {
+    margin: 1vw
+}
+.idCardData p {
+    font-weight: 500;
+}
